@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: yureeislysuarez@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -13,11 +13,17 @@ twitter_username:
 default_img: 
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Yureisly Suarez
+profile_img: https://s18.postimg.org/o35ksiqrt/yure.jpg
+profile: My full name is Yureisly, but everyone calls me Yure (pronounced Juh-reh). I am passionate about sustainability and the built environment as they are indivisible and fundamental parts for our practice. I received my B.S in Architecture from Universidad Simón Bolívar in 2013 and graduated from University of Texas with an M.S. Sustainable Design on 2017.
 social:
-  github: 
+  twitter: https://twitter.com/yureislysuarez
+  linkedin: https://www.linkedin.com/in/yureisly-suarez-32363625/
+  instagram: https://www.instagram.com/yureislysuarez/
+  facebook: https://www.facebook.com/yureislys
+  website: http://www.yuresuarez.com/about
+
+
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
